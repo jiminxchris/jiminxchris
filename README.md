@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChrisLin%20Lab&fontSize=90)
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,git,github,c,cpp,py,arduino,raspberrypi,react,js,html,css,nodejs,django,fastapi,opencv,mysql,postgres,sqlite,replit,unity&perline=6)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiminxchris&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

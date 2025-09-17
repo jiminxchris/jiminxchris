@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChrisLin%20Lab&fontSize=90)
@@ -9,7 +9,7 @@
 
 <!--
 **jiminxchris/jiminxchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiminxchris&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
